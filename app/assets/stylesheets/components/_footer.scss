@@ -25,3 +25,8 @@
 .footer .fa-heart {
   color: #D23333;
 }
+
+.bg-cream, .bg-cream-to-secondary-dark, .bg-cream-mobile-only {
+  --bs-bg-opacity: 1;
+  background-color: var(--cream) !important;
+}
