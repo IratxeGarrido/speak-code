@@ -9,5 +9,11 @@
 
 .main-container {
   display: flex;
-  background: $cream;
+  overflow: auto;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }

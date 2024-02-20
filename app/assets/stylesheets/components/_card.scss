@@ -1,8 +1,12 @@
+.course{
+  width: fit-content;
+  padding: 0px;
+}
 .card {
   height: 100%;
-  max-width: 400px;
-  border: 2px solid var(--white-smoke);
-  background-color: var(--white);
+  max-width: 340px;
+  border: 2px solid var(--bs-gray-200);
+  background-color: var(--bs-white);
   text-align: center;
   border-radius: 8px;
   flex-direction: column;
